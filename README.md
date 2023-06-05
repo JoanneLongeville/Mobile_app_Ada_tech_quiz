@@ -30,19 +30,20 @@ Our final app allows the user to:
 
 Log in screen
 
-
+![Log_in](https://github.com/JoanneLongeville/Mobile_app_Ada_tech_quiz/assets/103690254/c31f3ad2-9839-4b91-be18-e7ecbd7b287a)
 
 Sign up screen
 
-
+![Sign_up](https://github.com/JoanneLongeville/Mobile_app_Ada_tech_quiz/assets/103690254/ccf1e6ec-523a-47f5-a12d-945f186afc17)
 
 Question
 
-
+![Question](https://github.com/JoanneLongeville/Mobile_app_Ada_tech_quiz/assets/103690254/650abd46-2203-404a-b9a9-6d9d988e7653)
 
 Right answer
 
-
+![Right_answer](https://github.com/JoanneLongeville/Mobile_app_Ada_tech_quiz/assets/103690254/dab2330b-de79-46cc-bbf8-0b38d2429229)
 
 Final score
 
+![Score](https://github.com/JoanneLongeville/Mobile_app_Ada_tech_quiz/assets/103690254/583ef691-9481-4500-bb62-31255123ae62)
